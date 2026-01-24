@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://luxinzheng.github.io/wechat-archive/sitemap.xml
