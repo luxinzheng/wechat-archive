@@ -1,3 +1,4 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-Sitemap: https://luxinzheng.github.io/wechat-archive/sitemap.xml
+
+Sitemap: https://ai-studies.net/sitemap.xml
